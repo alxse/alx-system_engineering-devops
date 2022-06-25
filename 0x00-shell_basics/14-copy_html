@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -run *.html _ _/
+cp -run *.html ../
